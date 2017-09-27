@@ -4,7 +4,7 @@ var ReactDOM = require('react-dom');
 var TestUtils = require('react-addons-test-utils');
 var $ = require('jQuery');
 
-var Countdown = require('Countdown')
+var Countdown = require('Countdown');
 
 describe('Countdown', () => {
   it('should exist', () => {
